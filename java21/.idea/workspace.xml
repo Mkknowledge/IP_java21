@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b30024-de51-4a14-97af-101254c049a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/LambdaEffectivelyFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/MethodReferenceTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/MethodRefsAndContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/SampleFI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/BuildStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CreatingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/InfiniteStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Laziness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PipelineProcessingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/ProcessFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/TerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Evaluate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Functionable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Retrievable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java21/lambdas/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java21/lambdas/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
