@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2b30024-de51-4a14-97af-101254c049a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/BuildStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/CreatingStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/InfiniteStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Laziness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/PipelineProcessingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/ProcessFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/TerminalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Evaluate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Functionable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/assignement/Retrievable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/CollectorsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/IntermediateOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/PrimitiveStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Streams03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/methodReferences02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/preDefinedFunctionalInterfaces01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/LambdaEffectivelyFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/LambdaEffectivelyFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/MethodRefsAndContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/MethodRefsAndContext.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +44,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -57,10 +56,16 @@
       <recent name="$PROJECT_DIR$/src/lambdas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Streams03">
+    <configuration name="Streams03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Streams03" />
       <module name="java21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,6 +76,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="methodReferences02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.methodReferences02" />
+      <module name="java21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="preDefinedFunctionalInterfaces01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.preDefinedFunctionalInterfaces01" />
+      <module name="java21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,9 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Streams03" />
+        <item itemvalue="Application.preDefinedFunctionalInterfaces01" />
+        <item itemvalue="Application.methodReferences02" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.TestPredicate" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

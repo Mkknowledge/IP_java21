@@ -21,7 +21,7 @@ public class LambdaEffectivelyFinal {
         // variables MUST NOT change. Only setting up lambda here.
         Predicate<String> lambda = s -> {
             //x++; --> if uncommented --> Variable used in lambda expression
-            // should be final or effectively final
+            // 😂😂should be final or effectively final
             new LambdaEffectivelyFinal().name = "Kennedy";  // instance/class vars are ok
             System.out.println("x == "+x);
             return s.isEmpty() && x%2 == 0;
